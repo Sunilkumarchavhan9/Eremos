@@ -1,5 +1,7 @@
 # Agent Guide
 
+![Eremos Agent Swarm](THERON.png)
+
 ## Base Requirements
 Each agent must include:
 - `observe(event)` — detection logic

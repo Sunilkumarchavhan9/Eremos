@@ -71,13 +71,9 @@ npm run dev
 
 ## 📊 Agent Status
 
-| Agent | Status | Role | Glyph | Watch Type |
-|-------|--------|------|-------|------------|
-| Theron (000) | ✅ Active | Memory Vault | Ϸ | Anomaly Detection |
-| Observer | ✅ Active | Surveillance | Δ | Wallet Activity |
-| Harvester | ✅ Active | Indexing | λ | Mint Activity |
-| Skieró | 🚧 In Development | Pattern Recognition | Σ | Market Patterns |
-| Launch Tracker | 🚧 In Development | Launch Detection | 🚀 | Token Launches |
+![Eremos Agent Swarm](docs/THERON.png)
+
+*The Eremos agent swarm consists of specialized agents, each with unique roles and detection capabilities. From memory vault operations to launch detection, our agents work together to provide comprehensive blockchain monitoring.*
 
 ---
 
