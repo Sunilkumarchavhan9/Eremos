@@ -47,7 +47,7 @@ npm run dev
 
 ---
 
-## ✨ Features
+## Features
 
 ![Eremos Event Processing](docs/Eremos-event.png)
 
@@ -69,7 +69,7 @@ npm run dev
 
 ---
 
-## 📊 Agent Status
+## Agent Status
 
 ![Eremos Agent Swarm](docs/THERON.png)
 
