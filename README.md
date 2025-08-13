@@ -49,6 +49,8 @@ npm run dev
 
 ## ✨ Features
 
+![Eremos Event Processing](docs/Eremos-event.png)
+
 - **Modular Agents** - Scoped logic for detecting wallet activity, contract spawns, and anomalies  
 - **Signal Emission** - Structured signals for logging, alerting, or downstream use  
 - **Swarm Design** - Each agent operates independently with shared utilities  
@@ -61,14 +63,9 @@ npm run dev
 
 ## 🏗️ Architecture Overview
 
-```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Blockchain    │    │   Agent Swarm   │    │   Signal Hub    │
-│   Events        │───▶│   (Theron,      │───▶│   & Outputs     │
-│                 │    │    Observer,    │    │                 │
-│                 │    │    Harvester)   │    │                 │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-```
+![Eremos Architecture](docs/architecture-diagram.png)
+
+*The Eremos system processes blockchain events through an intelligent agent swarm, with each agent specializing in different detection patterns and emitting structured signals to a central hub.*
 
 ---
 
